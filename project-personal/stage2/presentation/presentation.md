@@ -90,7 +90,7 @@ header-includes:
 ##
 
 
-![С помощью команды ~/bin/hugo new post/last_week создали пост о прошедшей неделе "Понедельник"](image/9.png)
+![С помощью команды ~/bin/hugo new post/last_week создали пост о прошедшей неделе](image/9.png)
 
 ##
 
